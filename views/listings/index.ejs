@@ -1,0 +1,25 @@
+<% layout("/layouts/boilerplate"); %>
+<body>
+    <h3 style="justify-content: center; align-items: center; offset: 2;">&nbsp; &nbsp;Wanderlust</h3>
+
+    <form method="get" action="/listings/new">
+        <button type="submit" class="btn btn-success">Create New Listing</button>
+    </form>
+
+    <div class="row" style="display: flex; flex-wrap: wrap; justify-content: center;">
+        <% for (let listing of allListings) { %>
+            <div class="card" style="width: 18rem; margin: 10px;">
+                <!-- Wrap the whole card in an anchor tag -->
+                <a href="/listings/<%= listing._id %>" style="text-decoration: none; color: inherit;">
+                    <div class="card-image">
+                        <img src="<%= listing.image %>" class="card-img-top" alt="Listing Image">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title"><%= listing.title %></h5>
+                        <p class="card-text"><%=listing.description%><br>&#8377;<%= listing.price.toLocaleString("en-IN") %></p>
+                    </div>
+                </a>
+            </div>
+        <% } %>
+    </div>
+</body>

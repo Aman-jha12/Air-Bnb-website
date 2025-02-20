@@ -1,0 +1,272 @@
+{
+	"Credentials": "fed_id:fe37dea0-0860-11ef-80f6-b8ca3a718240",
+	"UserAlias": "u-ech3g9",
+	"MainMenuSectionsPendingToVisit": [],
+	"LastVisitedMainMenuSection": {
+		"mainMenuSection": "Career"
+	},
+	"CareerSeasonsPendingToVisit": [],
+	"CareerSeasonsPendingToScroll": [],
+	"LastChaptersVisitedSeasonId": 79,
+	"CareerEventsPlayedAndNotCompleted": [],
+	"MultiplayerSeriesLastRaceTokensPendingToSync": [],
+	"MultiplayerSeriesPendingVisited": [],
+	"VisitedTimeLimitedBoxes": [],
+	"VisitedTimeLimitedEvents": [],
+	"VisitedBundles": [],
+	"VisitedRelayOffers": [],
+	"NewBlueprintNotifications": [],
+	"NewWildcardBlueprintNotifications": [
+		[],
+		[],
+		[],
+		[],
+		[]
+	],
+	"NewEpicUpgradeItemNotifications": [],
+	"NewUncommonUpgradeItemNotifications": [],
+	"NewRareUpgradeItemNotifications": [],
+	"CanShowNoClubPopup": true,
+	"CanShowJoinClansPopup": true,
+	"CustomizationPendingUnlockedNotifications": [],
+	"CarCustomPartPendingUnlockedNotifications": [],
+	"CarDecalVisualsPendingUnlockedNotifications": [],
+	"GameLaunchCount": 1,
+	"LastSelectedCar": 37,
+	"eventNotifiedFirstMilestone": "",
+	"eventNotifiedLastMilestone": "",
+	"SoundSettings": {
+		"masterGain": 1.0,
+		"groupVolumes": [
+			1.0,
+			1.0,
+			1.0,
+			1.0,
+			1.0,
+			1.0,
+			1.0
+		]
+	},
+	"isHapticEnabled": false,
+	"lastViewedChatMessageTimestamp": 0,
+	"lastSessionHadClub": false,
+	"joinedClubTimestamp": 0,
+	"lastClubMemberRank": 3,
+	"multiplayerSeriesLastPositionReadFromLeaderboards": [],
+	"tleCachedData": [],
+	"championshipCachedData": [],
+	"clubWarsEventCachedData": [],
+	"uberCachedData": [],
+	"hasToShowBreakThroughPopup": true,
+	"hasToShowManualTutorialWhenTurningSmartDriveOff": true,
+	"hasToShowSlipStreamPopup": true,
+	"hasToShowTakedownPopup": true,
+	"hasToShowPiggyBankFullPopup": true,
+	"hasToShopPiggyBankFullPopupTierDown": true,
+	"hasToShowContaminationPopup": true,
+	"hasToShowNitroGhostPopup": true,
+	"hasToShowTLENitroGhostPopup": true,
+	"hasToShowMoneyRunPopup": true,
+	"hasToShowAutodustPopup": true,
+	"hasToShowAssignedEntryPoints": true,
+	"hasToShowAssignedDefenseNodes": true,
+	"showClubWarsDefensePhaseHUBTutorial": true,
+	"showClubWarsDefensePhaseOverviewMapTutorial": true,
+	"showClubWarsDefensePhaseRegionBoardTutorial": true,
+	"showClubWarsAttackPhaseHUBTutorial": true,
+	"showClubWarsAttackPhaseOverviewMapTutorial": true,
+	"showClubWarsAttackPhaseRegionBoardTutorial": true,
+	"hasToShowClubWarsTutorialPopup": true,
+	"lastClubWarsRoundDataSeenInOverviewMapWindow": {
+		"eventId": "",
+		"roundIdx": 255,
+		"phase": 0
+	},
+	"lastCWSectionSelectedCar": 4294967295,
+	"rateThisApplicationStamp": "0.0.0",
+	"rateThisApplicationStampCountdown": 0,
+	"rateThisApplicationTimestamp": 0,
+	"notifyJoinClubRequests": true,
+	"notifyClubInvites": true,
+	"lastSeenClubRequestIds": [],
+	"lastSeenInvitationForClubIds": [],
+	"lastClubSeasonEvent": "",
+	"latestUsedCarAtEvent": [],
+	"isNoMoreConditionsPopupActive": [],
+	"lastMPCarUsed": {
+		"first": "",
+		"second": 4294967295
+	},
+	"lastCareerCarUsed": 37,
+	"areNotificationsEnabled": false,
+	"isTokenSpendingThresholdEnable": false,
+	"tokenSpendingThreshold": 0,
+	"isTwinViewEnabled": false,
+	"isRGBLightingEnabled": false,
+	"isGhostVisible": true,
+	"isOperationScreenOnBottom": true,
+	"notificationPermissionFlagsV2": 0,
+	"allowNotificationsPopupDisplayCount": 0,
+	"freePacksReceivedCount": 0,
+	"upgradeItemsAppliedCount": 0,
+	"claimedDailyTasksCount": 0,
+	"areNotificationsAllowedOnThisDevice": false,
+	"lastUXProfile": 0,
+	"clubRaceCreateRoomLastSelectedLocationId": 4294967295,
+	"clubRaceCreateRoomLastSelectedEventIdForLocation": [],
+	"clubRaceCreateRoomLastSelectedLaps": 1,
+	"championshipEventSeenIntros": [],
+	"championshipEventLastVisitedRoundStage": 2,
+	"championshipEventLastVisitedRoundId": 4294967295,
+	"championshipEventLastVisitedLastSeenLeaderboardPosition": 0,
+	"lastSeenTimeLimitedSpecialRankEvent": "",
+	"seenTimeLimitedSpecialEventIntros": [],
+	"sentStarLadderTrackingEvents": [],
+	"autoclaimPopupDisplayCount": 0,
+	"lastAutoclaimPopupDisplayTimeStamp": 0,
+	"lastSeenUberEventHub": "",
+	"lastSeenUberEventIntro": "",
+	"VisitedBundlesInUberEventShop": [],
+	"VisitedTimeLimitedBoxesInUberEventShop": [],
+	"LastLevelSeenInUberEvent": 4294967295,
+	"UberBlackMarketVisited": false,
+	"uberExperience": 0,
+	"uberIntroScreenWasShown": false,
+	"isUberIntroScreenActive": true,
+	"storedWhatsNewVersion": "",
+	"desiredFPS": 60,
+	"dailyGoalComboState": 0,
+	"dailyTasksState": [
+		1,
+		1,
+		1,
+		1,
+		1,
+		1,
+		1,
+		1,
+		1,
+		1
+	],
+	"nextResetTime": "1970-01-01 00:00:00Z",
+	"isCareerRaceFlagPopupActive": true,
+	"isUnderPoweredCarPopupActive": true,
+	"SeasonPassSection.lastWelcomeScreenSeen": 4294967295,
+	"SeasonPassSection.lastTutorialSeen": 4294967295,
+	"SeasonPassSection.lastAllTiersCompletedScreenSeen": 4294967295,
+	"SeasonPassSection.lastEpisodeStates": [],
+	"SeasonPassSection.lastSeenBottomBarNonRewardsUIState": [],
+	"splitScreenState": {
+		"mainWindowState": {
+			"playersCount": 0,
+			"carClass": 3,
+			"useAllCarClasses": true
+		},
+		"carSelectionState": {
+			"carSelectionStates": []
+		},
+		"locationSelectionState": {
+			"selectedLocationId": 4294967295,
+			"locationSelectionStates": [],
+			"lapsCount": 1,
+			"useSlipStreamForAI": false
+		}
+	},
+	"splitScreenUnlockedPopup": false,
+	"isVaultTutorialPopupAlreadyShown": false,
+	"isNoMoreVaultConditionsPopupActive": [],
+	"vaultLastPhaseByEventId": [
+		{
+			"key": 17,
+			"value": 0
+		},
+		{
+			"key": 28,
+			"value": 0
+		},
+		{
+			"key": 20,
+			"value": 0
+		},
+		{
+			"key": 22,
+			"value": 0
+		},
+		{
+			"key": 14,
+			"value": 0
+		},
+		{
+			"key": 27,
+			"value": 0
+		},
+		{
+			"key": 13,
+			"value": 0
+		},
+		{
+			"key": 31,
+			"value": 0
+		},
+		{
+			"key": 18,
+			"value": 0
+		},
+		{
+			"key": 11,
+			"value": 0
+		},
+		{
+			"key": 10,
+			"value": 0
+		},
+		{
+			"key": 19,
+			"value": 0
+		},
+		{
+			"key": 12,
+			"value": 0
+		},
+		{
+			"key": 38,
+			"value": 0
+		},
+		{
+			"key": 25,
+			"value": 0
+		},
+		{
+			"key": 24,
+			"value": 0
+		},
+		{
+			"key": 37,
+			"value": 0
+		},
+		{
+			"key": 33,
+			"value": 0
+		},
+		{
+			"key": 34,
+			"value": 0
+		},
+		{
+			"key": 9,
+			"value": 0
+		},
+		{
+			"key": 32,
+			"value": 0
+		}
+	],
+	"hasToShowNoticeFor120FPSPopup": true,
+	"offlineQuickRaceState": {
+		"eventStates": []
+	},
+	"offlineQuickRaceUnlockedPopup": false,
+	"LastOfflineQuickRaceEventVisited": 4294967295,
+	"lastCarUsedInQuickRace": [],
+	"performanceProfile": 0
+}

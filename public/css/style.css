@@ -1,0 +1,91 @@
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 200 to 800 */
+
+.plus-jakarta-sans-{
+  font-family: "Plus Jakarta Sans", sans-serif !important;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.navbar{
+    height: 5rem;
+    background-color: hsl(240, 8%, 95%);
+}
+.fa-compass{
+    font-size: 1.5rem;
+    color: #fe424d;
+}
+.nav-item a{
+    color: #222222 !important;
+}
+
+/* footer */
+.f-info-links a{
+    text-decoration: none;
+    color: #222222;
+    height: 1.2rem;
+}
+.f-info-links a:hover{
+    text-decoration:underline;
+    color: blue;
+}
+.f-info{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 8rem;
+    flex-wrap: wrap;
+    background-color: rgb(244, 218, 218);
+    align-items: self-evenly;
+}
+.f-socials{
+    width: 100%;
+    color: #222222;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.f-socials i{
+    color: #222222;
+    margin-left: 1.2rem;
+}
+.f-info-links{
+    width: 100%;
+}
+.fa-instagram{
+    color: orange;
+}
+.fa-linkedin i{
+    color: rgb(91, 39, 168);
+}
+
+.card-img-top{
+    border-radius: 1rem !important;
+}
+
+.card-image {
+    width: 100%;
+    height: 200px; /* Adjust height as needed */
+    overflow: hidden;
+}
+
+.card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures image covers the div area */
+}
+.card{
+    border: none !important;
+}
+.flex-listing{
+    text-decoration: none;
+}
+.card {
+    transition: transform 0.2s; /* Smooth scale effect */
+    cursor: pointer; /* Indicate that the card is clickable */
+}
+
+.card:hover {
+    transform: scale(1.05); /* Slightly scale up on hover */
+}
