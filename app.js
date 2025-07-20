@@ -5,7 +5,7 @@ const port=8080;
 const Listing=require("./models/listing.js")
 const path=require("path");
 const methodOverride=require("method-override");
-const ejsMate=require("ejs-Mate");
+const ejsMate=require("ejs-mate");
 
 main().then(()=>{
     console.log("Connected to the database");
